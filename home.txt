@@ -2,3 +2,8 @@ this
 is
 home.txt
 file
+moni
+sh
+kum
+ar
+s
